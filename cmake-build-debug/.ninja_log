@@ -1,0 +1,15 @@
+# ninja log v5
+204	2640	6837495745967697	CMakeFiles/cache.dir/group.c.obj	d3b7f4ef1dba84c
+163	2639	6837495746123913	CMakeFiles/cache.dir/block.c.obj	d77c921ed1d0e12f
+3	2650	6837495746280136	CMakeFiles/cache.dir/main.c.obj	3aa1dd93a9dfe7f5
+2650	4270	6837495761901458	cache.exe	8538a91bdba27c6b
+144	2641	6837495746280136	CMakeFiles/cache.dir/utils.c.obj	7ead85fa82d72e6f
+184	2593	6837495745967697	CMakeFiles/cache.dir/cache.c.obj	da13b1593226f84d
+267	2649	6837495746280136	CMakeFiles/cache.dir/strategy.c.obj	9739338c2372512d
+36	1394	6838954260589578	CMakeFiles/cache.dir/main.c.obj	a0756bb8a117709f
+117	1405	6838954260699276	CMakeFiles/cache.dir/strategy.c.obj	55b79582e0baec87
+66	1432	6838954260808992	CMakeFiles/cache.dir/cache.c.obj	6031117a92d5d909
+62	1453	6838954260908725	CMakeFiles/cache.dir/block.c.obj	c9b6bd3d5c578e19
+40	1464	6838954260799147	CMakeFiles/cache.dir/group.c.obj	49802f1a405ab226
+56	1476	6838954261078280	CMakeFiles/cache.dir/utils.c.obj	8155a4ab1910d0cf
+1476	2658	6838954272202751	cache.exe	8538a91bdba27c6b
